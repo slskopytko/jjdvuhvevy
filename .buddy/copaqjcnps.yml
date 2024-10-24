@@ -1,0 +1,4 @@
+- pipeline: copaqjcnps
+  refs:
+  - refs/heads/master
+  on: CLICK
